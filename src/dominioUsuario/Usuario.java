@@ -11,6 +11,8 @@ public class Usuario {
 		this.clave = clave;
 	}
 
+	public Usuario() {}
+	
 	public int getId() {
 		return id;
 	}
